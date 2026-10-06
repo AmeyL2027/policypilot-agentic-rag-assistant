@@ -1,0 +1,14 @@
+"1,000.01 to 5,000 CAD","250.01 to 1,000 CAD","Above 5,000 CAD",Email and chat,High,Low,Medium,Production system access,Shared drive,Up to 250 CAD,VPN,department,doc_type,document_title,effective_date,file_name,source_type,title,version
+,,,,,,,,,,,,profile,,,COMPANY_PROFILE.md,synthetic,COMPANY PROFILE,
+,,,,,,,,,,,HR,handbook,Employee Handbook,2025-01-01,EMPLOYEE_HANDBOOK_V1.md,synthetic,EMPLOYEE HANDBOOK V1,1.0
+,,,,,,,,,,,HR,handbook,Employee Handbook,2025-09-01,EMPLOYEE_HANDBOOK_V2.md,synthetic,EMPLOYEE HANDBOOK V2,2.0
+,,,,,,,,,,,Finance,policy,Travel and Expense Policy,2025-02-01,TRAVEL_EXPENSE_POLICY_V1.md,synthetic,TRAVEL EXPENSE POLICY V1,1.0
+,,,,,,,,,,,Finance,policy,Travel and Expense Policy,2025-10-01,TRAVEL_EXPENSE_POLICY_V2.md,synthetic,TRAVEL EXPENSE POLICY V2,2.0
+director,department manager,vice president,,,,,,,employee's direct manager,,Finance,matrix,Expense Approval Matrix,2025-03-15,EXPENSE_APPROVAL_MATRIX.md,synthetic,EXPENSE APPROVAL MATRIX,1.0
+,,,,,,,,,,,HR,sop,New Hire Onboarding SOP,2025-04-01,NEW_HIRE_ONBOARDING_SOP.md,synthetic,NEW HIRE ONBOARDING SOP,1.0
+,,,within 1 business day,,,,within 3 business days after approval,within 2 business days,,within 2 business days,IT & Security,sop,IT Access Request SOP,2025-04-10,IT_ACCESS_REQUEST_SOP.md,synthetic,IT ACCESS REQUEST SOP,1.0
+,,,,,,,,,,,Procurement,policy,Procurement Policy,2025-05-01,PROCUREMENT_POLICY.md,synthetic,PROCUREMENT POLICY,1.0
+,,,,"financial harm, privacy concern, or regulatory risk",service issue with no financial impact,repeat service issue or moderate delay,,,,,Customer Care,guide,Customer Complaint Handling Guide,2025-05-15,CUSTOMER_COMPLAINT_HANDLING_GUIDE.md,synthetic,CUSTOMER COMPLAINT HANDLING GUIDE,1.0
+,,,,,,,,,,,Compliance,checklist,Internal Audit Checklist,2025-06-01,INTERNAL_AUDIT_CHECKLIST.md,synthetic,INTERNAL AUDIT CHECKLIST,1.0
+,,,,,,,,,,,HR,faq,HR FAQ,2025-06-10,HR_FAQ.md,synthetic,HR FAQ,1.0
+,,,,,,,,,,,Compliance,memo,Policy Change Memo - Q4 2025,2025-10-05,POLICY_CHANGE_MEMO_2025_Q4.md,synthetic,POLICY CHANGE MEMO 2025 Q4,1.0

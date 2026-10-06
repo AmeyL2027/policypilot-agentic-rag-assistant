@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+streamlit
+langchain
+langgraph
+qdrant-client
+pymupdf
+python-docx
+pydantic
+sqlalchemy
+pandas
+sentence-transformers
+httpx
+python-multipart
